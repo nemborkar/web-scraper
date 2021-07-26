@@ -7,10 +7,10 @@ Just a simple web scraper built in python
 Navigate to the directory and create the virtual environment; for example,  
 `virtualenv .`
 
-Start the virutal environment  
+Start it  
 `source bin/activate`
 
-Then install the requirements from the text file  
+Then install the requirements from the file  
 `python -m pip install -r requirements.txt`
 
 ### Step 3 - Run the file  
